@@ -1,1 +1,1 @@
-# 0x00-shell_basics
+# script to print absolute path
