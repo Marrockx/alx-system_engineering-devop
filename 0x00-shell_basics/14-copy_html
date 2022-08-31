@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -a --ignore-existing ./*.html /
+cp -n ./*.html /
